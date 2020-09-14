@@ -6,6 +6,9 @@ import IconAccount from './user-inactiv.svg';
 import IconAccountActive from './user-avtiv.svg';
 import IconDefaultUser from './default-user.svg';
 import IconJadwalHome from './icon-jadwal-home.svg';
+import IconBookingLapangan from './booking-lapangan.svg';
+import IconJointTeam from './join-team.svg';
+import IconLanganan from './langanan.svg';
 
 export {
   IconAccount,
@@ -16,4 +19,7 @@ export {
   IconJadwalActive,
   IconDefaultUser,
   IconJadwalHome,
+  IconBookingLapangan,
+  IconJointTeam,
+  IconLanganan,
 };
