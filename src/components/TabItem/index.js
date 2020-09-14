@@ -44,7 +44,7 @@ const styles = StyleSheet.create({
   containerFocus: {
     alignContent: 'center',
     padding: 5,
-    backgroundColor: WARNA_SEKUNDER,
+    backgroundColor: '#88BBF2',
     borderRadius: 10,
     flexDirection: 'row',
   },
